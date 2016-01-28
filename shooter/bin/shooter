@@ -1,0 +1,4 @@
+require 'shooter/shooter'
+
+game = Shooter::Game.new
+game.show
